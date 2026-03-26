@@ -163,6 +163,7 @@
 - [glitternetwork/pinme](https://github.com/glitternetwork/skills/tree/main/pinme) - PinMe is a zero-config frontend deployment tool. No servers. No accounts. No setup.
 - [linkedin](https://github.com/Linked-API/linkedin-skills) - General-purpose LinkedIn automation via Linked API — fetch profiles, search people/companies, send messages, manage connections, create posts. Supports Sales Navigator.
 - [review-claudemd](https://github.com/ykdojo/claude-code-tips/tree/main/skills/review-claudemd) - Review recent conversations to find improvements for CLAUDE.md files.
+- [hubspot-admin-skills](https://github.com/TomGranot/hubspot-admin-skills) - 32 Claude Code skills for auditing, cleaning, enriching, and automating HubSpot CRM. Full audit → plan → execute → maintain workflow with Python scripts and workflow builder guidance.
 
 ## 📰 Articles & Blog Posts
 
